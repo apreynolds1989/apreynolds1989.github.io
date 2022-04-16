@@ -3,13 +3,12 @@
 
 Hi! I'm Andrew! Follow my journey as I learn to code with the help of Get Coding
 
-### Markdown
+### My Projects
 
 ```markdown
 
-# My projects
 
-1. [Tic Tac Toe](https://apreynolds1989.github.io/ticTacToe/)
+[Tic Tac Toe](https://apreynolds1989.github.io/ticTacToe/)
 
 
 ```
