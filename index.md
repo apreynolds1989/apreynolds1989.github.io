@@ -1,19 +1,19 @@
 ## Welcome to My Pages!
 
 
-Hi! I'm Andrew! Follow my journey as I learn to code with the help of Get Coding
+Hi! I'm Andrew! Follow my journey as I learn to code with the help of [Get Coding](https://www.get-coding.ca/)
+
 
 ### My Projects
 
-```markdown
+1. [Tic Tac Toe](https://apreynolds1989.github.io/ticTacToe/)
+
+**More to come!**
 
 
-[Tic Tac Toe](https://apreynolds1989.github.io/ticTacToe/)
 
 
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
 ### Support or Contact
