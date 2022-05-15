@@ -6,7 +6,9 @@ Hi! I'm Andrew! Follow my journey as I learn to code with the help of [Get Codin
 
 ### My Projects
 
-1. [Tic Tac Toe](https://apreynolds1989.github.io/ticTacToe/)
+1. [Rock Paper Scissors](https://apreynolds1989.github.io/rockPaperScissors/)
+2. [Tic Tac Toe](https://apreynolds1989.github.io/ticTacToe/) 
+3. [Fantasy Hockey Weekly Game Tracker](https://apreynolds1989.github.io/game_tracker/)
 
 **More to come!**
 
