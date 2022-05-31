@@ -1,7 +1,7 @@
 ## Welcome to My Pages!
 
 
-Hi :wave: I'm Andrew! Follow my journey as I learn to code with the help of [Get Coding](https://www.get-coding.ca/)
+Hi, I'm Andrew! Follow my journey as I learn to code with the help of [Get Coding](https://www.get-coding.ca/)
 
 
 ## My Projects
