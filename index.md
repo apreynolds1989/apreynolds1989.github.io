@@ -1,18 +1,17 @@
 ## Welcome to My Pages!
 
-
-Hi, I'm Andrew! Follow my journey as I learn to code with the help of [Get Coding](https://www.get-coding.ca/)
-
+Hi :wave: I'm Andrew. Follow my journey as I learn to code with the help of [Get Coding](https://www.get-coding.ca/)
 
 ## My Projects
 
-### In Progress
-1. [Fantasy Hockey Weekly Game Tracker](https://apreynolds1989.github.io/game_tracker/)
+### In Progress:
+1. [nextUP (game-tracker-v2)](https://apreynolds1989.github.io/nextUP/)
+2. [Get Gaming](https://apreynolds1989.github.io/get-gaming/)
 
 ### How I've Learned
-1. [Rock Paper Scissors](https://apreynolds1989.github.io/rockPaperScissors/)
-2. [Tic Tac Toe](https://apreynolds1989.github.io/ticTacToe/) 
-
+1. [Tic Tac Toe](https://apreynolds1989.github.io/ticTacToe/) 
+2. [Rock Paper Scissors](https://apreynolds1989.github.io/rockPaperScissors/)
+3. [Fantasy Hockey Weekly Game Tracker - Version 1](https://apreynolds1989.github.io/game_tracker/)
 
 **More to come!**
 
